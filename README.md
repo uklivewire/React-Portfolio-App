@@ -1,2 +1,2 @@
 # React-Portfolio-App
-Portfolio app buiklt with react
+Portfolio app built with react
