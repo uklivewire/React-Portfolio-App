@@ -1,14 +1,17 @@
 import React from "react";
+import Hero from "../components/Hero/Hero";
 // import Hero from "../components/Hero";
-// import Container from "../components/Container";
-// import Row from "../components/Row";
-// import Col from "../components/Col";
+import Container from "../components/Container/Container";
+import Row from "../components/Row/Row";
+import Col from "../components/Col/Col";
+import 'bootstrap/dist/css/bootstrap.css';
 
 function Home() {
   return (
     <div>
-      <Hero backgroundImage="https://i.imgur.com/qkdpN.jpg">
-        <h1>Pupster</h1>
+      {/* <Hero backgroundImage="https://i.imgur.com/qkdpN.jpg"> */}
+        <Hero>
+        <h1>jhgjhg</h1>
         <h2>They're the Good Boys and Girls</h2>
       </Hero>
       <Container style={{ marginTop: 30 }}>

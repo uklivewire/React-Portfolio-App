@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, NavLink } from 'react-router-dom';
-// import './style.css';
+import '../Navbar/style.css';
 
 // Depending on the current path, this component sets the "active" class on the appropriate navigation link item
 function Navbar() {
@@ -34,7 +34,7 @@ function Navbar() {
           </li>
           <li className="nav-item">
             <NavLink
-              to="/contact"
+              to="/home"
               className={({ isActive }) =>
                 isActive ? 'nav-link active' : 'nav-link'
               }
