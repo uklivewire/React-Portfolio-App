@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Password generator",
+        "description": "Browser based Password Generator built using JavaScript for Bootcamp week 5 challenge.",
+        "deployedLink": "https://uklivewire.github.io/Password-Generator/",
+        "repoLink": "https://github.com/uklivewire/Password-Generator",
+        "screenshot": "https://github.com/uklivewire/Password-Generator/raw/main/assets/password-generator-screenshot1.png?raw=true"
+    },
+    {
+        "title": "Console Finances",
+        "description": "Console based Financial Analysis JavaScript application",
+        "deployedLink": "https://uklivewire.github.io/Console-Finaces/",
+        "repoLink": "https://github.com/uklivewire/Console-Finaces",
+        "screenshot": "https://github.com/uklivewire/Console-Finaces/raw/main/images/financial-console-screenshiot.png"
+    },
+    {
+        "title": "CLI ReadME Generator",
+        "description": "ReadME Generator for the command line interface, built using JavaScript, this needs to be cloned to your computer to run",
+        "deployedLink": "",
+        "repoLink": "https://github.com/uklivewire/CLI-ReadME-Generator",
+        "screenshot": ""
+    },
+    {
+        "title": "Bootstrap Portfolio",
+        "description": "Portfolio website built using Bootstrap and custom css.",
+        "deployedLink": "https://uklivewire.github.io/Bootstrap-Portfolio/",
+        "repoLink": "https://github.com/uklivewire/Bootstrap-Portfolio",
+        "screenshot": "https://github.com/uklivewire/Bootstrap-Portfolio/raw/main/images/portfolio-screenshot-1.png?raw=true"
+    },
+    {
+        "title": "Password generator",
+        "description": "Browser based Password Generator built using JavaScript for Bootcamp week 5 challenge.",
+        "deployedLink": "https://uklivewire.github.io/Password-Generator/",
+        "repoLink": "https://github.com/uklivewire/Password-Generator",
+        "screenshot": "https://github.com/uklivewire/Password-Generator/raw/main/assets/password-generator-screenshot1.png?raw=true"
+    },
+    {
+        "title": "Console Finances",
+        "description": "Console based Financial Analysis JavaScript application",
+        "deployedLink": "https://uklivewire.github.io/Console-Finaces/",
+        "repoLink": "https://github.com/uklivewire/Console-Finaces",
+        "screenshot": "https://github.com/uklivewire/Console-Finaces/raw/main/images/financial-console-screenshiot.png"
+    }
+]
