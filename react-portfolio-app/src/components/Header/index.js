@@ -17,7 +17,7 @@ function Header() {
                         <NavLink to="/Contact" className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link' } >Contact</NavLink>
                     </li>
                     <li className="nav-item">
-                        <a href="./assets" className="nav-link">Resume</a>
+                        <a href="../assets/Ricky_Bryans_CV.pdf" className="nav-link">Resume</a>
                     </li>
                 </ul>
             </div>
