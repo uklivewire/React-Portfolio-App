@@ -3,10 +3,11 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from "./components/Header";
 import Home from "./components/Home";
 import ProjectGallery from './components/ProjectGallery/ProjectGallery';
-import Project from './components/Projects';
+// import Project from './components/Projects';
 import Contact from './components/Contact/Contact';
-import projects from "./data/projects.json"
+import projects from "./components/ProjectGallery";
 import "./App.css";
+import Resume from "./components/Resume";
 
 
 function App() {
@@ -16,11 +17,10 @@ function App() {
         <Header />
           <Routes>
 
-          <Route exact path="/" component={Home} />
-          <Route exact path='/projects' component={ProjectGallery} />
-          {projects.map((project) => (
-          <Route key={project.id} path={`/projects/${project.id}`} render={(props) => <Project {...props} project={project}/>}/>))}
-          <Route exact path="/contact" component={Contact} />
+          <Route exact path="/" element={<Home />} />
+          <Route exact path='/projects' element={<ProjectGallery />} />
+          <Route excat path='/contact' element={<Contact />}
+          // <Route exact path='/resume'element={<Resume />}
 
         </Routes>
       </div>
