@@ -1,13 +1,13 @@
 import React from "react";
 import "./style.css";
-// import "./src/assets/male-placeholder.jpg"
+// import "./assets/male-placeholder.jpg"
 
 function Home() {
     return (
         <div className="container">
             <div className="row">
                 <div className="col-4">
-                    {/* <img src={ require ('./src/assets/male-placeholder.jpg')} alt="ricky bryans"></img> */}
+                    {/* <img src={ require ('./assets/male-placeholder.jpg')} alt="ricky bryans"></img> */}
                 </div>
             </div>
             {/* <h1>Ricky Bryans</h1>

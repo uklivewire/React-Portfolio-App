@@ -1,5 +1,15 @@
 [
     {
+        "id": 0,
+        "title": "Random film Picker",
+        "description": "Simple application to help movie fans find a random film to watch.",
+        "deployedLink": "https://guilhermederetti.github.io/Random-Film-Picker/",
+        "repoLink": "https://github.com/GuilhermeDeretti/Random-Film-Picker",
+        "screenshot": "./assets/random_film_picker.png"
+    },
+    
+    {
+        "id": 1,
         "title": "Password generator",
         "description": "Browser based Password Generator built using JavaScript for Bootcamp week 5 challenge.",
         "deployedLink": "https://uklivewire.github.io/Password-Generator/",
@@ -7,6 +17,7 @@
         "screenshot": "https://github.com/uklivewire/Password-Generator/raw/main/assets/password-generator-screenshot1.png?raw=true"
     },
     {
+        "id": 2,
         "title": "Console Finances",
         "description": "Console based Financial Analysis JavaScript application",
         "deployedLink": "https://uklivewire.github.io/Console-Finaces/",
@@ -14,6 +25,7 @@
         "screenshot": "https://github.com/uklivewire/Console-Finaces/raw/main/images/financial-console-screenshiot.png"
     },
     {
+        "id": 3,
         "title": "CLI ReadME Generator",
         "description": "ReadME Generator for the command line interface, built using JavaScript, this needs to be cloned to your computer to run",
         "deployedLink": "",
@@ -21,6 +33,7 @@
         "screenshot": ""
     },
     {
+        "id": 4,
         "title": "Bootstrap Portfolio",
         "description": "Portfolio website built using Bootstrap and custom css.",
         "deployedLink": "https://uklivewire.github.io/Bootstrap-Portfolio/",
@@ -28,17 +41,11 @@
         "screenshot": "https://github.com/uklivewire/Bootstrap-Portfolio/raw/main/images/portfolio-screenshot-1.png?raw=true"
     },
     {
+        "id": 5,
         "title": "Password generator",
         "description": "Browser based Password Generator built using JavaScript for Bootcamp week 5 challenge.",
         "deployedLink": "https://uklivewire.github.io/Password-Generator/",
         "repoLink": "https://github.com/uklivewire/Password-Generator",
         "screenshot": "https://github.com/uklivewire/Password-Generator/raw/main/assets/password-generator-screenshot1.png?raw=true"
-    },
-    {
-        "title": "Console Finances",
-        "description": "Console based Financial Analysis JavaScript application",
-        "deployedLink": "https://uklivewire.github.io/Console-Finaces/",
-        "repoLink": "https://github.com/uklivewire/Console-Finaces",
-        "screenshot": "https://github.com/uklivewire/Console-Finaces/raw/main/images/financial-console-screenshiot.png"
     }
 ]
