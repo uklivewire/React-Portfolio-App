@@ -18,13 +18,13 @@ function Contact() {
 
                 <div className="cardContainer col-lg-4 col-md-4 col-sm-12">
                     <div className="col-4">
-                        <a href="https://github.com//Najma53/"><img src={process.env.PUBLIC_URL + "./assets/github.png"} alt="Github"></img></a>
+                        <a href="https://github.com//uklivewire/"><img src={process.env.PUBLIC_URL + "./assets/github.png"} alt="Github"></img></a>
                     </div>
                 </div>
 
                 <div className="cardContainer col-lg-4 col-md-4 col-sm-12">
                     <div className="col-4">
-                        <a href="www.linkedin.com/in/najma53"><img src={process.env.PUBLIC_URL + "./assets/linkedin.png"} alt="Linkedin"></img></a>
+                        <a href="https://www.linkedin.com/in/ricky-bryans-08ba24264/"><img src={process.env.PUBLIC_URL + "./assets/linkedin.png"} alt="Linkedin"></img></a>
                     </div>
                 </div>
             </div>

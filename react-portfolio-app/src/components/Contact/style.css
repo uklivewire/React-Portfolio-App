@@ -1,0 +1,18 @@
+h2{
+    text-align: center;
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+    font-family: cursive !important;
+}
+p{
+    text-align: center !important;
+    font-size: large;
+}
+.a:hover{
+    color:silver !important;
+    background-color: rgb(118, 0, 75) !important;
+}
+
+.cardContainer .col-4 .img{
+    color: aliceblue!Important;
+}
