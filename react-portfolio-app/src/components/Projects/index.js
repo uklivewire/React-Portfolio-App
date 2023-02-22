@@ -6,9 +6,9 @@ function Projects(props) {
         <div className="container">
             <div className="row">
                 <div className="col-4">
-                    <img src={ process.env.PUBLIC_URL + props.image } className="card-img-top" alt={props.title}></img>
+                    <img src={ process.env.PUBLIC_URL + props.image } className="card-img-top card-img-top-with-margin" alt={props.title}></img>
                 </div>
-                <div className="jumbotron col-7">
+                <div className="jumbotron col-7 text-center">
                     <h5 className="JumboTitle">{props.title}</h5>
                     <br></br>
                     <p className="card-text">{props.description}</p>

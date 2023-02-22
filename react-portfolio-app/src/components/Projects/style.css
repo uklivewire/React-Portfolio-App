@@ -24,5 +24,9 @@ p {
 }
 
 .jumbotron.col-7 {
-    background-color: #676767;
+    background-color: #4c4c4c;
 }
+
+.card-img-top-with-margin {
+    margin-top: 50px;
+  }
