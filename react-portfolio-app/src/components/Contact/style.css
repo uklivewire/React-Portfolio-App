@@ -13,6 +13,10 @@ p{
     background-color: rgb(118, 0, 75) !important;
 }
 
+.container-fluid content {
+    color: aliceblue!important;
+}
+
 .cardContainer .col-4 .img{
     color: aliceblue!Important;
 }

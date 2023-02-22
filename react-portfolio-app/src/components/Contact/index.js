@@ -4,9 +4,9 @@ import "./style.css";
 function Contact() {
     return (
         <div className="container-fluid content">
-            <h2 clasName="sectionheading" id="contact">Contact</h2>
+            <h2 className="sectionheading" id="contact">Contact</h2>
             <p> Please feel free to get in touch</p>
-            <div class="row">
+            <div className="row">
 
     
 

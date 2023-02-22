@@ -1,0 +1,28 @@
+.btn-secondary{
+    padding-block: 3px;
+    margin-inline-end: 5px;
+    color: ffffff !important;
+    background-color: #76B82A !important;
+}
+.cardContainer {
+    margin-top: 20px;
+}
+a:hover {
+    background-color: black;
+  }
+
+.btn-secondary:hover {
+    color:silver !important;
+    background-color: black !important;
+}
+p {
+    text-align: right !important;
+}
+
+.JumboTitle{
+    text-align: center;
+}
+
+.jumbotron.col-7 {
+    background-color: #676767;
+}

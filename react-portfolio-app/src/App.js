@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from "./components/Header";
 import Home from "./components/Home";
-import ProjectGallery from './components/ProjectGallery/ProjectGallery';
+import ProjectGallery from "../src/components/ProjectGallery/ProjectGallery"
 // import Project from './components/Projects';
 import Contact from './components/Contact';
 // import projects from "./components/ProjectGallery";
@@ -18,7 +18,7 @@ function App() {
           <Routes>
 
           <Route path="/" element={<Home />} />
-          <Route path='/projects' element={<ProjectGallery />} />
+          <Route path='/projectGallery' element={<ProjectGallery />} />
           <Route path='/contact' element={<Contact />} />
           {/* <Route excat path='/contact' element={<Contact />} */}
           {/* <Route  path='/resume'element={<Resume />} */}
