@@ -1,10 +1,10 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from "./components/Header";
-import Home from "./components/Home";
+import Home from "../src/components/Home/index";
 import ProjectGallery from "../src/components/ProjectGallery/ProjectGallery"
 // import Project from './components/Projects';
-import Contact from './components/Contact';
+import Contact from '../src/components/Contact/index';
 // import projects from "./components/ProjectGallery";
 // import "./App.css";
 // import Resume from "./components/Resume";

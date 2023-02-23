@@ -1,0 +1,27 @@
+.container {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #76B82A;
+  margin-top: 100px!important;
+}
+
+.profile-img {
+  width: 450px;
+  height: 450px;
+}
+
+h1 {
+  font-family: cursive;
+  font-style: italic;
+  margin-bottom: 0;
+}
+
+.job-title {
+  margin-top: 0;
+}
+
+
+@media screen and (max-width: 768px) {
+  .profile-img {
+    width: 150px;
+  }
+}
