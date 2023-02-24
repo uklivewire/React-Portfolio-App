@@ -12,6 +12,18 @@ By visiting the below URL you can view a portfolio of work, links to social medi
 
 Deployed url: https://react-portfolio-rb.netlify.app/
 
+![Screenshot of Portfolio](../../assets/screenshot1.png?raw=true "Main Screenshot")
+
+![Screenshot of Portfolio](../../assets/screenshot2.png?raw=true "Main Screenshot")
+
+![Screenshot of Portfolio](../../assets/screenshot3.png?raw=true "Main Screenshot")
+
+![Screenshot of Portfolio](../../assets/screenshot4.png?raw=true "Main Screenshot")
+
+![Screenshot of Portfolio](../../assets/screenshot5.png?raw=true "Main Screenshot")
+
+![Screenshot of Portfolio](../../assets/screenshot6.png?raw=true "Main Screenshot")
+
 
 ## Credits
 
