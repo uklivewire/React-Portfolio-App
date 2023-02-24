@@ -8,7 +8,15 @@
     
 }
 h3{
-   text-align: center;
-   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
-   color: #76B82A!important; 
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+    color: #76B82A!important; 
+}
+
+.p {
+    display: flex;
+    direction: row;
+    text-align: center;
 }
